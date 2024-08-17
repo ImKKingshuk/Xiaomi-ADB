@@ -8,7 +8,7 @@ print_banner() {
         "******************************************"
         "*                Xiaomi-ADB              *"
         "*    Xiaomi Device Customizer with ADB   *"
-        "*                  v1.0.1                *"
+        "*                  v1.1.0                *"
         "*      ----------------------------      *"
         "*                        by @ImKKingshuk *"
         "* Github- https://github.com/ImKKingshuk *"
